@@ -1,6 +1,6 @@
 ### Hi there 👋, Aliraza Lakhani
 #### Design and Development
-![Design and Development](https://i.ibb.co/G9SHysb/banner-card.png)
+![Design and Development](https://github.com/vision72/vision72/blob/main/banner_card.PNG)
 
 I'm Ali from India, and I do fullstack development. I really enjoy learning and frameworks like React and React Native, as well as write write bools in free time. I also enjoy wireframing, ui, ux, and design in general.
 
