@@ -9,7 +9,7 @@ I'm Ali from India, and I do fullstack development. I really enjoy learning and 
 * 💻 HTML, CSS, JS
 
 ## Examples of Work
-<img src="https://user-images.githubusercontent.com/32649253/83376849-5531e300-a3f1-11ea-8765-522f663c6d3b.gif" width="256" />
+<img src="https://user-images.githubusercontent.com/32649253/83376849-5531e300-a3f1-11ea-8765-522f663c6d3b.gif" width="340" />
 <!-- ![vsm2](https://user-images.githubusercontent.com/32649253/83376849-5531e300-a3f1-11ea-8765-522f663c6d3b.gif) -->
 
 
