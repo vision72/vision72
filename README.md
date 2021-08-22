@@ -1,23 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Aliraza Lakhani
+#### Design and Development
+![Design and Development](https://i.ibb.co/G9SHysb/banner-card.png)
 
-I'm Ali from India, and I do fullstack development. I really enjoy learning and frameworks like React and React Native, as well as write write bools in free time. I also enjoy wireframing, ui, ux, and design in general. You can checkout my linkedin at https://www.linkedin.com/in/aliraza-lakhani-288356164/.
+I'm Ali from India, and I do fullstack development. I really enjoy learning and frameworks like React and React Native, as well as write write bools in free time. I also enjoy wireframing, ui, ux, and design in general.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vision72)](https://github.com/anuraghazra/github-readme-stats)
+Skills: REACT / JS / HTML / CSS
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vision72)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/vision72)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aliraza-lakhani-288356164/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aliraza_lakhani_12/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/vision72)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/user11307237)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCHKzhZz1E39PNNpruEA1ijg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Wonderful-Ship4956/)
 
 
-<!-- - 🔭 I’m currently working on Mobile Applications
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on Computer Vision
-- 🤔 I’m looking for help with React Native
-- 💬 Ask me about Data Manipulation
-- 📫 How to reach me: visioninc12@gmail.com
-- 😄 Pronouns: Vision
-- ⚡ Fun fact: Crazy
-
-<!--
-**vision72/vision72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
- -->
 
 
