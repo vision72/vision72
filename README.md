@@ -1,12 +1,12 @@
-![Design and Development](https://github.com/vision72/vision72/blob/main/banner_card.PNG)
+# Aliraza Lakhani 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/vision72/vision72/blob/main/devcard.svg" width="400" alt="Aliraza Lakhani's Dev Card"/></a>
 
-# Aliraza Lakhani
 I'm Ali from India, and I do fullstack development. I really enjoy learning and frameworks like React and React Native, as well as write write bools in free time. I also enjoy wireframing, ui, ux, and design in general.
 
 ## Skills and Experience
-* ⚛ React
-* 📱 React Native
-* 💻 HTML, CSS, JS
+  * ⚛ React
+  * 📱 React Native
+  * 💻 HTML, CSS, JS
 
 ## Examples of Work
 <img src="https://user-images.githubusercontent.com/32649253/83376849-5531e300-a3f1-11ea-8765-522f663c6d3b.gif" width="340" />
