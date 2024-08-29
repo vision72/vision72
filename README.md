@@ -1,8 +1,6 @@
 # Aliraza Lakhani 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/vision72/vision72/blob/main/devcard.svg" width="400" alt="Aliraza Lakhani's Dev Card"/></a>
 
-I'm Ali from India, and I do fullstack development. I really enjoy learning and frameworks like React and React Native, as well as write write bools in free time. I also enjoy wireframing, ui, ux, and design in general.
-
 ## Skills and Experience
   * ⚛ React
   * 📱 React Native
